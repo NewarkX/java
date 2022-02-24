@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "arquivo/src",
+        "filewritter,bufferedwritter/src"
+    ]
+}
